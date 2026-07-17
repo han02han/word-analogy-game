@@ -1,0 +1,58 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "puzzle": "巴黎 − 法国 + 西班牙 = ？",
+      "answer": ["马", "德", "里"],
+      "candidates": ["巴", "黎", "马", "德", "里", "法", "西", "班", "牙"],
+      "hint_remove": ["巴", "黎", "法", "西", "班", "牙"],
+      "illustration_before": "",
+      "illustration_after": ""
+    },
+    {
+      "id": 2,
+      "puzzle": "钥匙 − 门 + 电脑 = ？",
+      "answer": ["密", "码"],
+      "candidates": ["钥", "匙", "密", "码", "锁", "门", "电", "脑"],
+      "hint_remove": ["钥", "匙", "锁", "门", "电"],
+      "illustration_before": "",
+      "illustration_after": ""
+    },
+    {
+      "id": 3,
+      "puzzle": "翻译 − 语言 + 货币 = ？",
+      "answer": ["汇", "率"],
+      "candidates": ["翻", "译", "汇", "率", "兑", "换", "语", "言"],
+      "hint_remove": ["翻", "译", "兑", "换", "语", "言"],
+      "illustration_before": "",
+      "illustration_after": ""
+    },
+    {
+      "id": 4,
+      "puzzle": "做梦 − 睡觉 + 白天 = ？",
+      "answer": ["白", "日", "梦"],
+      "candidates": ["做", "睡", "觉", "白", "日", "梦", "天", "夜"],
+      "hint_remove": ["做", "睡", "觉", "天", "夜"],
+      "illustration_before": "",
+      "illustration_after": ""
+    },
+    {
+      "id": 5,
+      "puzzle": "口罩 − 病毒 + 阳光 = ？",
+      "answer": ["防", "晒", "霜"],
+      "candidates": ["口", "罩", "防", "晒", "霜", "伞", "阳", "光"],
+      "hint_remove": ["口", "罩", "伞", "阳", "光"],
+      "illustration_before": "",
+      "illustration_after": ""
+    },
+    {
+      "id": 6,
+      "puzzle": "王国 − 男人 + 女人 = ？",
+      "answer": ["女", "王"],
+      "candidates": ["王", "国", "女", "男", "人", "子", "大", "小"],
+      "hint_remove": ["国", "男", "人", "子", "大", "小"],
+      "illustration_before": "",
+      "illustration_after": ""
+    }
+  ]
+}
